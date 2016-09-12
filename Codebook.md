@@ -32,8 +32,8 @@ Activity: a character that describes what the test subjects did during the obser
 
 From the data set, i have got the following variables.
 
-timeBodyAccelerometerMeanX
-timeBodyAccelerometerMeanY
+* timeBodyAccelerometerMeanX
+* timeBodyAccelerometerMeanY
 timeBodyAccelerometerMeanZ
 timeBodyAccelerometerStdDevX
 timeBodyAccelerometerStdDevY
